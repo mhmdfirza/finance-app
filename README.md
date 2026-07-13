@@ -1,3 +1,6 @@
+# Personalized Finance App (On-Going)
+Starting from concern of personal financial management, this application is useful for tracking personal cash flow to optimize personal financial management oversight in conditions full of information, distractions, and inconsistencies.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
